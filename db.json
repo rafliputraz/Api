@@ -1,1 +1,59 @@
-
+[
+        {
+            "employeeId": 1,
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Emilio",
+                "last": "Montero"
+            },
+            "location": {
+                "street": {
+                    "number": 5861,
+                    "name": "Calle de La Luna"
+                },
+                "city": "Parla",
+                "state": "País Vasco",
+                "country": "Spain",
+                "postcode": 17329,
+                "coordinates": {
+                    "latitude": "-18.4544",
+                    "longitude": "-43.9676"
+                },
+                "timezone": {
+                    "offset": "+3:30",
+                    "description": "Tehran"
+                }
+            },
+            "email": "emilio.montero@example.com",
+            "login": {
+                "uuid": "49998ae1-3771-43f9-92f6-ba05009c7d17",
+                "username": "yellowgoose728",
+                "password": "bosco",
+                "salt": "oDChl7Lf",
+                "md5": "382257c12ff3c14fae6cd1ec3a80a82d",
+                "sha1": "e77f4dc997245dbe3b4232e075b2876a7a8f6906",
+                "sha256": "a2095958b342b40fa6f9b0cdc3b10a952db5bce229d95c7482740082bac74400"
+            },
+            "dob": {
+                "date": "1980-09-13T08:14:31.016Z",
+                "age": 42
+            },
+            "registered": {
+                "date": "2002-04-17T12:42:54.320Z",
+                "age": 20
+            },
+            "phone": "900-674-804",
+            "cell": "644-786-663",
+            "id": {
+                "name": "DNI",
+                "value": "27696024-X"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/36.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+            },
+            "nat": "ES"
+        }
+    ]
