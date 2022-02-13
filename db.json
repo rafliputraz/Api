@@ -1,4 +1,10 @@
-[
+{
+    "statusCode": 200,
+    "nim": "2301952962",
+    "nama": "Rafli",
+    "employeeId": 1,
+    "credits": "Thanks to https://randomuser.me/api/",
+    "employees": [
         {
             "employeeId": 1,
             "gender": "male",
@@ -57,3 +63,4 @@
             "nat": "ES"
         }
     ]
+}
